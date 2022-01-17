@@ -1,0 +1,35 @@
+//colores
+
+$gray: gray;
+$steelblue:steelblue;
+$white: white;
+$whiteNot:#f2f4f5;  
+
+//fuentes
+$oswald: 'Oswald', sans-serif;
+$fire: 'Fira Sans', sans-serif;
+
+//Font size
+$textLarge:24;
+$textNormal:13;
+
+//Estilos
+$light: 300;
+$regular: 400;
+$bold: 700;
+$black: 900;
+
+
+//diagramación
+
+$viewportWidth:100%;
+$widthNews:32%; 
+$padding5: 5px;
+$padding10: 1%;
+
+// Breakpoints
+$breakpoints:(
+    'medium':(min-width: 768px),
+    'large' :(min-width: 992px),
+    'huge'  :(min-width: 1200px),
+);

@@ -1,0 +1,7 @@
+.contenedor{
+    width:$viewportWidth;
+
+    &__d-none-mobile{
+        display:none;
+    }
+}

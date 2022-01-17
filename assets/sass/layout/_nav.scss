@@ -1,0 +1,37 @@
+.contenedor {
+    width: 960px;
+  margin: 0 auto;
+}
+.menu {
+    width: 960px;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+
+  &__input {
+    border-radius: 30px;
+
+  }
+
+  &__link {
+
+
+  }
+
+  &__links {
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  &__logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+  
+  &__nav {
+    display: inline-block;
+    width: 840px;
+    text-align: right;
+  }
+}
